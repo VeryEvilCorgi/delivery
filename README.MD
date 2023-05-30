@@ -13,8 +13,8 @@ npm run dev
 
 Ну і змінити кофігурацію для бд в backend/.env
 
-http://localhost:8080/ - фронт
-http://localhost:5555/ - адмінка для бд
+http://54.144.111.181:8080/ - фронт
+http://54.144.111.181:5555/ - адмінка для бд
 pgadmin4@pgadmin.org
 admin
 
